@@ -1,5 +1,5 @@
 # **Alabama**
-(To see a detailed infographic of the map itself, please refer to the images found in this folder.)
+![Detailed infographic of my proposed congressional map in the state of Alabama.](/Alabama/AlabamaProposedMap.png)
 
 Like many of its neighbors in the Deep South, Alabama’s politics are characterized by its high degree of political polarization along racial lines. As such, much of my commentary will discuss Alabamian redistricting in this context. Likewise, most of the contention that arises from evaluating the fairness of any proposed congressional map in the state is deeply rooted within racial politics. More specifically, there has been a great deal of controversy regarding the number of majority-Black congressional districts that are mandated by the Voting Rights Act(Henceforth, VRA). This dispute recently culminated in the Allen v. Milligan SCOTUS ruling, in which the majority found that the state of Alabama violated §2 of the VRA by only creating one majority-Black congressional district. Any fair and legal map of Alabama, as of the time of writing this, should therefore contain two majority-Black districts.
 
