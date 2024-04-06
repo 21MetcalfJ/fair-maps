@@ -1,5 +1,5 @@
 # **Arkansas**
-  ![Infographic of my proposed redistricting plan in the state of Arkansas.](/Arkansas/ArkansasProposedMap.png)
+  ![Infographic of my proposed redistricting plan in the state of Arkansas.](/Arkansas/ArkansasStatewide.png)
 
 The history of redistricting in Arkansas is a reflection of the utter demise suffered by the AR Democratic party. Formerly one of the bluest states in the country and home of favorite son Bill Clinton, the Democratic party was the dominant force the Natural State’s politics for much of the 1990s and 2000s. In recent years, however, the state has become one of the most solidly Republican regions in the country. There are several explanations for the demise of the Arkansas Democrats; however, the simplest explanation is that Arkansas’ demographics are simply incompatible with the modern Democratic coalition. As each party became more ideologically polarized, the coalition that was largely composed of rural conservative Democrats began to unravel. Though they fully controlled the 2010 redistricting process in the state and in fact tried to gerrymander the map to maintain their edge, the attempt fully backfired. Over the course of President Obama’s tenure, control of Arkansas’ state government, senate seats, and congressional delegation fell firmly into Republican hands. Today, the future of the AR Dems seems grim.  
 
